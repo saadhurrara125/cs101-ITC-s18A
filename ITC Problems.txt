@@ -1,0 +1,16 @@
+1. Assertion Error:
+	declear a wrong variable in code. overview the code and then saw that i declered a wrong variable.
+2. Name Error:
+	when calling a variable with wrong spellings. checked whole code and correct spellings.
+
+3.Indentation Error:
+	Find an Indent block in the code.Then saw that i wrote a piece of code outside the lope and then correct it by giving 4 spaces to that piece of code
+
+4.
+	I saw a Global Name Error in coding and then go to the front and define the name and then the error was corrected.
+
+5.
+	I saw too Much difficulties while applying a loop on it while i can handle the problems through if and else.
+
+6.
+	The Main Issue was autograder which dosent respond at time and annaconda promt as well. 
